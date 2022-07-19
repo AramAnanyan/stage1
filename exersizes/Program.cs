@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace exersizes
+namespace exersices
 {
     class Program
     {
