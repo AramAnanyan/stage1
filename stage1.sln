@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "parse", "parse\parse.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "509", "509_515\509.csproj", "{A19B3E6A-60C7-4576-BCCE-8F07CB327428}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exersice", "exersice\exersice.csproj", "{A7AE99DE-FD07-485D-A054-8D29DCA73CB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "exersice", "exersice\exersice.csproj", "{A7AE99DE-FD07-485D-A054-8D29DCA73CB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "error_enum", "error_enum\error_enum.csproj", "{22A9827C-C01E-4DA8-8111-D8017B780FFE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{A7AE99DE-FD07-485D-A054-8D29DCA73CB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7AE99DE-FD07-485D-A054-8D29DCA73CB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7AE99DE-FD07-485D-A054-8D29DCA73CB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22A9827C-C01E-4DA8-8111-D8017B780FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A9827C-C01E-4DA8-8111-D8017B780FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A9827C-C01E-4DA8-8111-D8017B780FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A9827C-C01E-4DA8-8111-D8017B780FFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
